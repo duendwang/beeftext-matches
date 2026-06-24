@@ -5264,6 +5264,162 @@
             "name": "",
             "snippet": "I also would like to know if the list is regularly updated indicating which of the excess funds are being pursued, which have already been paid out, and which are still outstanding. Also if there's a typical time period when the list is updated, I'd like to know that too.",
             "uuid": "{e13a8dcd-c099-4e0e-805b-a06ba2f491fa}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2026-02-05T17:42:04.544",
+            "description": "",
+            "enabled": true,
+            "group": "{9f78d005-c1c9-4e39-a2af-1238ad495789}",
+            "keyword": "hfr/cold-text",
+            "matchingMode": 0,
+            "modificationDateTime": "2026-02-05T17:48:41.955",
+            "name": "",
+            "snippet": "Hi #{input:Prospect First Name}. You don't know me but I've spent the last #{input:Days spent trying to find prospect} days trying to find you. I can't say what this is about in a text, but I can tell you it is really good news and you should call me the minute you hear this message. My number is #{combo:hfr/ghlphone} -David",
+            "uuid": "{2e288c2a-56c3-49b4-9a44-ea382c19b0e7}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2026-03-02T21:34:07.471",
+            "description": "",
+            "enabled": true,
+            "group": "{07459e79-7e3e-4f44-8d4a-530cbe007097}",
+            "keyword": "support@hbs",
+            "matchingMode": 0,
+            "modificationDateTime": "2026-03-02T21:34:27.545",
+            "name": "",
+            "snippet": "support@hirambusinesssolutions.com",
+            "uuid": "{cbb1a6ef-c511-4712-976c-2057336c586b}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2026-03-02T21:34:58.668",
+            "description": "",
+            "enabled": true,
+            "group": "{07459e79-7e3e-4f44-8d4a-530cbe007097}",
+            "keyword": "yp@arcadia",
+            "matchingMode": 0,
+            "modificationDateTime": "2026-03-02T21:43:11.968",
+            "name": "",
+            "snippet": "yp@churchinarcadia.com",
+            "uuid": "{f635dad1-7c8d-4317-b4e2-9106f6948a47}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2026-03-02T21:43:14.665",
+            "description": "",
+            "enabled": true,
+            "group": "{07459e79-7e3e-4f44-8d4a-530cbe007097}",
+            "keyword": "children@arcadia",
+            "matchingMode": 0,
+            "modificationDateTime": "2026-03-02T21:43:35.161",
+            "name": "",
+            "snippet": "children@churchinarcadia.com",
+            "uuid": "{0b6cb94c-3cd0-4946-a47e-61716149584e}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2026-03-02T21:43:37.695",
+            "description": "",
+            "enabled": true,
+            "group": "{07459e79-7e3e-4f44-8d4a-530cbe007097}",
+            "keyword": "support@arcadia",
+            "matchingMode": 0,
+            "modificationDateTime": "2026-03-02T21:43:47.985",
+            "name": "",
+            "snippet": "support@churchinarcadia.com",
+            "uuid": "{db991eff-dae4-4040-b9df-c4e1f46d9dcf}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2026-03-02T21:43:52.871",
+            "description": "",
+            "enabled": true,
+            "group": "{07459e79-7e3e-4f44-8d4a-530cbe007097}",
+            "keyword": "office@arcadia",
+            "matchingMode": 0,
+            "modificationDateTime": "2026-03-02T21:45:20.252",
+            "name": "",
+            "snippet": "office@churchinarcadia.com",
+            "uuid": "{63a6b2ef-7196-4ad1-ad43-c39303bdf347}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2026-03-10T08:43:54.047",
+            "description": "",
+            "enabled": true,
+            "group": "{9543f3f0-277c-4af9-a0d3-77efaa8f37b1}",
+            "keyword": "maincord/emojionly",
+            "matchingMode": 0,
+            "modificationDateTime": "2026-03-10T08:56:15.598",
+            "name": "",
+            "snippet": ":bangbang: :regional_indicator_e: :regional_indicator_m: :regional_indicator_o: :regional_indicator_j: :regional_indicator_i: :regional_indicator_s:   :regional_indicator_o: :regional_indicator_n: :regional_indicator_l: :regional_indicator_y: :bangbang:\n:regional_indicator_n: :regional_indicator_o:   :regional_indicator_t: :regional_indicator_e: :regional_indicator_x: :regional_indicator_t:   :regional_indicator_i: :regional_indicator_n:   :regional_indicator_t: :regional_indicator_h: :regional_indicator_i: :regional_indicator_s:\n:regional_indicator_c: :regional_indicator_h: :regional_indicator_a: :regional_indicator_n: :regional_indicator_n: :regional_indicator_e: :regional_indicator_l:",
+            "uuid": "{dfff64e4-66f8-414d-867b-ccac65e846e7}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2026-04-24T22:47:51.848",
+            "description": "",
+            "enabled": true,
+            "group": "{0c2ee2c7-58ef-4779-beca-e488f73b01aa}",
+            "keyword": "personal/textnow",
+            "matchingMode": 0,
+            "modificationDateTime": "2026-04-24T22:50:47.174",
+            "name": "",
+            "snippet": "(626) 598-3538",
+            "uuid": "{e0387ff8-81c2-40d7-b637-fb5b547beccd}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2026-04-24T22:51:18.939",
+            "description": "",
+            "enabled": true,
+            "group": "{0c2ee2c7-58ef-4779-beca-e488f73b01aa}",
+            "keyword": "personal/cal-email",
+            "matchingMode": 0,
+            "modificationDateTime": "2026-04-24T22:51:30.496",
+            "name": "",
+            "snippet": "dwang@cal.berkeley.edu",
+            "uuid": "{06048a7d-75d7-4793-af78-53b14b6b08f9}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2026-04-24T22:51:34.361",
+            "description": "",
+            "enabled": true,
+            "group": "{0c2ee2c7-58ef-4779-beca-e488f73b01aa}",
+            "keyword": "personal/gmail",
+            "matchingMode": 0,
+            "modificationDateTime": "2026-04-24T22:51:44.449",
+            "name": "",
+            "snippet": "duendwang@gmail.com",
+            "uuid": "{5d4dcbb4-cab0-4a3a-815f-a62edb0ec51a}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2026-04-24T22:53:15.382",
+            "description": "",
+            "enabled": true,
+            "group": "{0c2ee2c7-58ef-4779-beca-e488f73b01aa}",
+            "keyword": "cloaked/ads/phone",
+            "matchingMode": 0,
+            "modificationDateTime": "2026-04-24T22:54:01.476",
+            "name": "",
+            "snippet": "(309) 916-6944",
+            "uuid": "{feeb311a-a317-416f-8a27-beec129f5aa4}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2026-05-01T23:21:44.237",
+            "description": "",
+            "enabled": true,
+            "group": "{42593797-0aba-49a3-a49f-4fe088432000}",
+            "keyword": "church/phone2",
+            "matchingMode": 0,
+            "modificationDateTime": "2026-05-01T23:25:07.088",
+            "name": "",
+            "snippet": "(626) 322-2236",
+            "uuid": "{863ced40-3946-41f0-98be-6493f8ee783c}"
         }
     ],
     "fileFormatVersion": 10,
@@ -5320,8 +5476,8 @@
             "creationDateTime": "2025-02-21T08:29:19.415",
             "description": "VPS and other server IPs",
             "enabled": true,
-            "modificationDateTime": "2026-01-26T23:06:36.761",
-            "name": "Servers",
+            "modificationDateTime": "2026-03-02T21:33:09.368",
+            "name": "VPSs",
             "uuid": "{fdeccfb1-0061-45f8-90d6-5248d2604a6e}"
         },
         {
@@ -5347,6 +5503,14 @@
             "modificationDateTime": "2026-02-03T00:04:39.808",
             "name": "Business",
             "uuid": "{9f78d005-c1c9-4e39-a2af-1238ad495789}"
+        },
+        {
+            "creationDateTime": "2026-04-24T22:47:44.931",
+            "description": "",
+            "enabled": true,
+            "modificationDateTime": "2026-04-24T22:47:48.591",
+            "name": "Personal",
+            "uuid": "{0c2ee2c7-58ef-4779-beca-e488f73b01aa}"
         }
     ]
 }
